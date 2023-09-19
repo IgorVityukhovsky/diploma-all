@@ -9,3 +9,4 @@
 admin  
 prom-operator  
 
+## Подробности выполнения  
